@@ -4,6 +4,18 @@
 | [Fitness Recoder](https://github.com/cjhih456/fitness-recoder) | https://cjhih456.github.io/fitness-recoder/ |
 | [Subscript Editor](https://github.com/cjhih456/subscript-editor) | https://cjhih456.github.io/subscript-editor/ |
 
+# Team Project
+
+### Filma
+[Portfolio](https://cjhih456.github.io/filma-portfolio/)
+| Link by Parts |
+| ---- |
+| [Filma BE](https://github.com/kakao4-KAKAMU/KAKAMU_BE) |
+| [Filma FE](https://github.com/kakao4-KAKAMU/KAKAMU-FE) |
+| [Filma ML](https://github.com/kakao4-KAKAMU/KAKAMU_DE) |
+| [Filma Helm](https://github.com/kakao4-KAKAMU/kakamu_helm) |
+
+
 # Used Skills
 | Base | Badges |
 | ---- | ---- |
@@ -17,11 +29,5 @@
 | Bundler | ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Webpack Badge](https://img.shields.io/badge/Webpack-8DD6F9?logo=webpack&logoColor=000&style=for-the-badge) ![rollup.js Badge](https://img.shields.io/badge/rollup.js-EC4A3F?logo=rollupdotjs&logoColor=fff&style=for-the-badge)  |
 | Js Compiler | ![Babel Badge](https://img.shields.io/badge/Babel-F9DC3E?logo=babel&logoColor=000&style=for-the-badge) |
 | Media Converter | ![FFmpeg Badge](https://img.shields.io/badge/FFmpeg-007808?logo=ffmpeg&logoColor=fff&style=for-the-badge) |
-
-
-| ![cjhih456's GitHub stats](https://github-readme-stats.vercel.app/api?username=cjhih456&theme=tokyonight) | ![](https://github-readme-streak-stats.herokuapp.com/?user=cjhih456&theme=tokyonight&hide_border=false) |
-| --- | --- |
-|  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cjhih456&theme=tokyonight)    |    [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cjhih4)](https://solved.ac/cjhih4/)  |
-
 
 
