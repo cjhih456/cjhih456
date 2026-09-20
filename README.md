@@ -1,7 +1,7 @@
 # Toy Projects
 | Project | Github Page |
 | ---- | ---- |
-| [Fitness Recoder](https://github.com/cjhih456/fitness-recorder-v2) | https://cjhih456.github.io/fitness-recoder-v2/ |
+| [Fitness Recoder](https://github.com/cjhih456/fitness-recorder-v2) | https://cjhih456.github.io/fitness-recorder-v2/ |
 | [Subscript Editor](https://github.com/cjhih456/subscript-editor) | https://cjhih456.github.io/subscript-editor/ |
 
 # Team Project
